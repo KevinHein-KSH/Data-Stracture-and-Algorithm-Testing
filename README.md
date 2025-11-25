@@ -44,10 +44,11 @@ Compile individual files as needed.
 ```bash
 gcc file.c -o program
 ./program
+```
 
-### Compile C files
+### Compile C++ files
 
 ```bash
 g++ -std=c++17 file.cpp -o program
 ./program
-
+```
