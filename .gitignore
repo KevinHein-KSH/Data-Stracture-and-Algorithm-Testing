@@ -17,10 +17,3 @@
 .idea/
 *.swp
 *~
-
-# Project binaries
-C/main
-C/extern
-C++/constructor
-C++/protected
-C++/vector
